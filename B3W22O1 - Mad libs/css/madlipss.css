@@ -1,0 +1,79 @@
+body{
+	background-color: grey;
+	margin: 0 auto;
+	width: 1000px 100%;
+	font-family: 'Archivo', sans-serif;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
+
+h2{
+	text-align: center;
+	font-size: 34px;
+}
+
+div{
+	background-color: white;
+	padding: 10px;
+
+}
+
+ul{
+	background-color: red;
+	list-style-type: none;
+	padding-left: 0;
+	padding-right: 0;
+	padding: 10px;
+}
+
+
+li{
+	display: inline;
+}
+
+li a{
+	font-size: 20px;
+	margin: 20px;
+	text-decoration: none;
+	color: white;
+}
+
+li a:hover{
+	color: black;
+}
+
+footer{
+	background-color: lightgreen;
+	text-align: center;
+	width: 1171px;
+	margin-left: 164px;
+	margin-top: -10px;
+}
+
+input{
+	margin: 7.5px;
+	margin-left: 20px;
+	display: block;
+}
+
+.error{
+	color: #FF0000;
+}
+
+.lijst{
+	background-color: grey;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1190px;
+	margin-bottom: -20px;
+}
+
+.voeter{
+	background-color: grey;
+	margin-right: auto;
+	margin-left: auto;
+}
